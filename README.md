@@ -4,7 +4,7 @@ author: adwiz
 date: 25.10.2020
 output: html_document
 ---
-## Datasciece Project
+## Datascience Project
 
 The [R plugin](https://www.jetbrains.com/help/pycharm/r-plugin-support.html) for IntelliJ-based IDEs provides
 handy capabilities to work with the [R Markdown](https://www.jetbrains.com/help/pycharm/r-markdown.html) files.
